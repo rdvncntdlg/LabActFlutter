@@ -1,3 +1,3 @@
-# lab_act_dilag
+# Laboratory Activity
 
 A new Flutter project.
